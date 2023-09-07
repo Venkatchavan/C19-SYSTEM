@@ -85,7 +85,7 @@ If you'd like to contribute to this project or have suggestions for improvements
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Venkat Chavan N.Contact venkatchavan1999@gmail.com 
 ```
 
 You can use this README as a starting point and customize it further based on your preferences. It provides an overview of the program's features, instructions for getting started, and details on how to use the system for managing COVID-19 patient records and vaccination appointments.

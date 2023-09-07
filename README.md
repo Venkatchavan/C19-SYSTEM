@@ -38,7 +38,7 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/covid-vaccination-management.git
+   git clone https://github.com/Venkatchavan/C19-System.git
    ```
 
 2. Compile the C++ program using a C++ compiler (e.g., g++):
